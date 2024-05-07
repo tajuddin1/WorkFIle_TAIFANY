@@ -550,4 +550,7 @@ html[lang="ar"] .footer-last-wrapper{
     .devider {
         margin: auto !important;
     }
+    .row.nav-row {
+        padding: 15px 0;
+    }
 }
